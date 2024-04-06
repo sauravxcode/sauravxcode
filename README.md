@@ -1,7 +1,7 @@
 <img src="https://github.com/sauravxcode/sauravxcode/blob/main/name.svg"/>
 
 # About Me
-Hello, I'm <b>Saurav Chaturvedi</b>, a BCA student at MSI, Delhi, with a passion for becoming a full-stack developer. Currently honing my skills in both front-end and back-end development and I've also worked as a freelance graphic designer and video editor, I'm eager to learn and excited to make cool stuff with technology.
+Hello, I'm <b>Saurav Chaturvedi</b>, a BCA student at <a href="http://www.msit.in/"> <b>Maharaja Surajmal Institute of Technology</b></a>, Delhi, with a passion for becoming a full-stack developer. Currently honing my skills in both front-end and back-end development and I've also worked as a freelance graphic designer and video editor, I'm eager to learn and excited to make cool stuff with technology.
 
 ## Language and Tools
 
