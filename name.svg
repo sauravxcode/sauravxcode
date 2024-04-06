@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg fill="none" viewBox="0 0 1500 650" xmlns="http://www.w3.org/2000/svg">
-<foreignObject y="75" width="100%" height="100%">
+<svg fill="none" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
 <style>
 	.bySaurav {
@@ -24,8 +24,8 @@
 		border-radius: 20px;
 		width: 100%;
 		background: #333;
-		padding-top:150px;
-		padding-bottom:150px;
+		padding-top:100px;
+		padding-bottom:100px;
 		}
 
 
