@@ -33,8 +33,8 @@ Hello, I'm <b>Saurav Chaturvedi</b>, a BCA student at <a href="http://www.msit.i
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](#)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pr"/>](#)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=wordpress"/>](#)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ps"/>](#)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=wordpress"/>](#)
 
 <br>
 
